@@ -1,26 +1,26 @@
+
 ## Relaxation Activities - Calm Quadrant
 
-    * Engage in leisurely strolls amidst natural surroundings to experience soothing tranquility.
-    * Practice gentle yoga postures that enhance relaxation and physical well-being.
-    * Indulge in soft, calming music or the serenity of nature's sounds to achieve a calm state of mind.
-    * Immerse yourself in a warm bath infused with calming essential oils, easing muscle tension and fostering a serene atmosphere.
-    * Partake in gentle stretches that release muscle stress, fostering a sense of relaxation.
+* Engage in leisurely strolls amidst natural surroundings to experience soothing tranquility.
+* Practice gentle yoga postures that enhance relaxation and physical well-being.
+* Indulge in soft, calming music or the serenity of nature's sounds to achieve a calm state of mind.
+* Immerse yourself in a warm bath infused with calming essential oils, easing muscle tension and fostering a serene atmosphere.
+* Partake in gentle stretches that release muscle stress, fostering a sense of relaxation.
 
 ## Triggers for the Stress Quadrant
-
-    * Experiencing high workloads, tight deadlines, and demanding responsibilities can induce stress.
-    * Inadequate time to fulfill tasks and obligations is a common stress-inducing factor.
-    * Interpersonal conflicts or disagreements often lead to heightened stress and tension.
-    * Feeling a lack of control or power in a situation can result in stress.
-    * Dealing with physical or mental health issues can be a significant source of stress.
+* xperiencing high workloads, tight deadlines, and demanding responsibilities can induce stress.
+* Inadequate time to fulfill tasks and obligations is a common stress-inducing factor.
+* Interpersonal conflicts or disagreements often lead to heightened stress and tension.
+* Feeling a lack of control or power in a situation can result in stress.
+* Dealing with physical or mental health issues can be a significant source of stress.
 
 ## Identifying the Excitement Quadrant
 
-    * Sensing a surge of energy and enthusiasm for a specific activity or event.
-    * Anticipating something with eagerness and a positive outlook.
-    * Experiencing deep engagement and absorption in a task or experience.
-    * Noticing larger pupils due to heightened arousal as a physiological response.
-    * Demonstrating a willingness to embrace risks and new experiences with enthusiasm.
+* Sensing a surge of energy and enthusiasm for a specific activity or event.
+* Anticipating something with eagerness and a positive outlook.
+* Experiencing deep engagement and absorption in a task or experience.
+* Noticing larger pupils due to heightened arousal as a physiological response.
+* Demonstrating a willingness to embrace risks and new experiences with enthusiasm.
 
 ### Paraphrased Summary of "Sleep is your Superpower" Video
 
