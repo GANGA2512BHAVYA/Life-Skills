@@ -8,9 +8,9 @@
 Area that I need to improve "Stuck? Ask questions"
 ### Ideas to improve:
 #### Gather-requirements-properly: 
-    To start taking Minutes of Meeting (MOM) during the calls, inorder to not miss any requirements and seeking clarity if needed.
+To start taking Minutes of Meeting (MOM) during the calls, inorder to not miss any requirements and seeking clarity if needed.
 #### Over-Communicate: 
-    To always over communicate and to create dedicated channels to hold regular meetings for better team updates and issue resolution.
+To always over communicate and to create dedicated channels to hold regular meetings for better team updates and issue resolution.
 #### Ask Questions: 
 To ask clear and detailed questions with visuals and code snippets for effective problem-solving.
 
